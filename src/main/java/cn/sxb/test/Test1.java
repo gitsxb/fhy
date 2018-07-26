@@ -11,5 +11,6 @@ public class Test1 {
         for (String arg : args) {
             System.out.println(222222);
         }
+        System.out.println(333333);
     }
 }
