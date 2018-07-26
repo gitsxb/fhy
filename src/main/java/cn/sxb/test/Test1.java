@@ -17,6 +17,9 @@ public class Test1 {
         Date date = new Date();
         //////
         System.out.println(333333);
+        System.out.println(
+                333333
+        );
         for (String arg : args) {
             
         }
