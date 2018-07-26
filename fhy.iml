@@ -6,13 +6,11 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
-    <output url="file://$MODULE_DIR$/../../../testgit/fhy/target/classes" />
-    <output-test url="file://$MODULE_DIR$/../../../testgit/fhy/target/test-classes" />
-    <content url="file://$MODULE_DIR$/../../../testgit/fhy">
-      <sourceFolder url="file://$MODULE_DIR$/../../../testgit/fhy/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../testgit/fhy/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../testgit/fhy/src/test/java" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../testgit/fhy/target" />
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
