@@ -9,5 +9,7 @@ public class Test2 {
         ///////////////////
         System.out.println(0000);
         System.out.println(789);
+        System.out.println(333);
+        System.out.println(4444444);
     }
 }
