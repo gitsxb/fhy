@@ -21,4 +21,9 @@ public class TestApp {
     public boolean get(){
         return true;
     }
+    @RequestMapping("/abc")
+    @ResponseBody
+    public String abc(){
+        return this.toString();
+    }
 }
